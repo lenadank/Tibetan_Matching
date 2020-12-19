@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: lena
+Class-Path: utils-1.07.00.jar slf4j-api-1.7.14.jar args4j-2.33.jar com
+ mons-io-2.4.jar commons-daemon-1.0.15.jar junit-addons-1.4.jar xmlPar
+ serAPIs-2.6.2.jar commons-lang3-3.4.jar joda-time-2.9.2.jar commons-m
+ ath3-3.6.1.jar guava-21.0.jar log4j-1.2.17.jar
+Build-Jdk: 1.8.0_121
+Created-By: Maven Integration for Eclipse
+Main-Class: tau.cs.wolf.tibet.percentage_apbt.main.AppMonitored
+

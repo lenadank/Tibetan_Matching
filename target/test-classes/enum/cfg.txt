@@ -1,0 +1,8 @@
+minLength = 8
+maxError = 2
+#timeout = PT10M
+#minDistanceUnion = 10
+#localAlignPadRatio = 0.12
+
+chunkSize = 50
+maxMatchLength = 20

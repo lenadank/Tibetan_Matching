@@ -1,0 +1,5 @@
+minLength = 10
+maxError = 3
+#timeout = PT10M
+#minDistanceUnion = 10
+#localAlignPadRatio = 0.12
