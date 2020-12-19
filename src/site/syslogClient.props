@@ -1,0 +1,12 @@
+
+# Required
+###########
+host = soul
+port = 12345
+
+
+# Optional
+###########
+#protocol = tcp
+#facility = USER
+#maxMsgLen = 1MB

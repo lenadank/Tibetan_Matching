@@ -1,0 +1,14 @@
+
+# Required
+###########
+host = soul
+port = 12345
+outFile = syslogServer.log
+
+
+# Optional
+###########
+#timeout = 0
+#sysoutHandler = false
+#protocol = tcp
+#append = true
